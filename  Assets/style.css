@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Main-head{
+    text-align: center;
+}
+
+.card-group{
+    display: flex;
+    flex-wrap: wrap;
+}
